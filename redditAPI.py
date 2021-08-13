@@ -2,7 +2,6 @@ import json
 import urllib
 import requests
 import requests.auth
-import numpy
 #Define variables necessary for making a request via the function api_call
 # URI defines the endpoint necessary for accessing endpoints that require
 # authentication via OAuth.
